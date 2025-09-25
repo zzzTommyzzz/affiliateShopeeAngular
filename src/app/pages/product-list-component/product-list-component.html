@@ -1,0 +1,41 @@
+<section class="controls">
+  <input type="search" [formControl]="q" placeholder="🔍 Tìm sản phẩm..." />
+
+  <select [formControl]="category">
+    <option value="all">Tất cả danh mục</option>
+    <option *ngFor="let c of (categories$ | async)" [value]="c">{{ c }}</option>
+  </select>
+
+  <select [formControl]="sort">
+    <option value="popular">Phổ biến</option>
+    <option value="price-asc">Giá: Thấp → Cao</option>
+    <option value="price-desc">Giá: Cao → Thấp</option>
+  </select>
+</section>
+
+<section class="product-grid" aria-live="polite">
+  <div class="grid">
+    <article class="product-card" *ngFor="let p of (products$ | async); trackBy: trackById">
+      <a [routerLink]="['/product', p.id]">
+        <div class="img-wrap">
+          <img
+            [src]="p.image || 'assets/img/placeholder.png'"
+            [attr.alt]="p.title || 'Sản phẩm'"
+            loading="lazy"            
+          />
+        </div>
+
+        <h3 class="title">{{ p.title }}</h3>
+
+        <p class="price">
+          <span class="now">{{ p.price | number }} {{ p.currency || 'VND' }}</span>
+          <span *ngIf="p.originalPrice" class="old">{{ p.originalPrice | number }}</span>
+        </p>
+      </a>
+    </article>
+  </div>
+
+  <div class="empty-state" *ngIf="(products$ | async)?.length === 0">
+    Không tìm thấy sản phẩm.
+  </div>
+</section>

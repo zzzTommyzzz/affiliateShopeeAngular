@@ -1,0 +1,36 @@
+<!-- src/app/components/product-detail/product-detail.component.html -->
+<ng-container *ngIf="product; else nofound">
+  <article class="product-detail">
+    <div class="detail-top">
+      <div class="image-wrap">
+        <img [src]="product.image" [alt]="product.title" loading="lazy" />
+      </div>
+
+      <div class="info">
+        <h1 class="title">{{ product.title }}</h1>
+
+        <div class="price-block">
+          <p class="price-now">{{ product.price | number }} {{ product.currency || 'VND' }}</p>
+          <p *ngIf="product.originalPrice" class="price-old">{{ product.originalPrice | number }}</p>
+        </div>
+
+        <div class="rating" *ngIf="product.rating">
+          ⭐ {{ product.rating }}/5
+        </div>
+
+        <a [href]="product.affiliateUrl" target="_blank" rel="noopener noreferrer nofollow" class="buy-btn">
+          Mua ngay trên Shopee
+        </a>
+      </div>
+    </div>
+
+    <section class="desc">
+      <h2>Mô tả sản phẩm</h2>
+      <p>{{ product.description }}</p>
+    </section>
+  </article>
+</ng-container>
+
+<ng-template #nofound>
+  <p class="not-found">Sản phẩm không tìm thấy</p>
+</ng-template>
