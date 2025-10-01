@@ -29,7 +29,8 @@
     "isPreferredPlusSeller": false,
     "isOfficialShop": false,
     "soldCountDisplay": "1k+",
-    "discount": 49
+    "discount": 49,
+    "totalRatingCount": 332
   },
   {
     "id": "12782620552",
@@ -61,7 +62,8 @@
     "isPreferredPlusSeller": true,
     "isOfficialShop": false,
     "soldCountDisplay": "456",
-    "discount": 27
+    "discount": 27,
+    "totalRatingCount": 127
   },
   {
     "id": "42607020056",
@@ -93,6 +95,7 @@
     "isPreferredPlusSeller": false,
     "isOfficialShop": true,
     "soldCountDisplay": "2k+",
-    "discount": 33
+    "discount": 33,
+    "totalRatingCount": 547
   }
 ]
