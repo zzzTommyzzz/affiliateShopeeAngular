@@ -163,5 +163,33 @@
     "soldCountDisplay": "2k+",
     "discount": 30,
     "totalRatingCount": 474
+  },
+  {
+    "id": "29330347170",
+    "title": "( Khổ cao 50cm-1m)Lưới  thép bọc nhựa làm chuồng trại,chống chuột mắt lưới 1.2cm và 2cm",
+    "slug": "(-khổ-cao-50cm-1m)lưới--thép-bọc-nhựa-lam-chuồng-trai,chống-chuột-mắt-lưới-1.2cm-va-2cm",
+    "price": 18000.0,
+    "originalPrice": 18000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134211-7ra0g-m89shgxu127i1c",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134211-7ra0g-m89shgxu127i1c",
+      "https://down-vn.img.susercontent.com/file/vn-11134211-7ra0g-m89shgxu2gryf4",
+      "https://down-vn.img.susercontent.com/file/vn-11134211-7ra0g-m89shgxu3vced8",
+      "https://down-vn.img.susercontent.com/file/vn-11134211-7ra0g-m89shgxu59wu06"
+    ],
+    "rating": 4.9,
+    "category": [
+      "Nhà cửa & Đời sống",
+      "Làm vườn",
+      "Trang trí vườn"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/9KZ6bOKgkj",
+    "description": "Lưới thép hàn bọc nhựa mắt 1.2cm và mắt 2cm khổ cao cố định 1 mét\nLưới màu xanh như hình .dùng chống chuột làm chuồng gia cầm.vvv.\ngiá bán theo 1mét dài nhé, khách mua bao nhiêu mét thì bấm nhân số lượng lên shop sẽ cắt theo số lượng khách mua\nVd: \nKhách muốn mua 3m chọn khổ cao 1m chọn số lượng3\nKhach muốn mua 5 m khổ 1 m chọn số lượng 5 khổ cao 1m \nKhách hàng lưu ý: shop có để thêm mục 50cm là dài 50cm của khổ 1 mét.",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "469",
+    "discount": 0,
+    "totalRatingCount": 76
   }
 ]
