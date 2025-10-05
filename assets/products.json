@@ -224,5 +224,32 @@
     "soldCountDisplay": "1k+",
     "discount": 0,
     "totalRatingCount": 313
+  },
+  {
+    "id": "41601337166",
+    "title": "NƯỚC KHOÁNG LẠT CÓ GA ĐẢNH THẠNH 430ml (Thùng 24 Chai)",
+    "slug": "nước-khoang-lat-có-ga-danh-thanh-430ml-(thùng-24-chai)",
+    "price": 144500.0,
+    "originalPrice": 144500.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8x6h0y5dv2ae2",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8x6h0y5dv2ae2",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8x6h0yfdg7808",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8x6h0y5dutgc3"
+    ],
+    "rating": 4.9,
+    "category": [
+      "Thực phẩm và đồ uống",
+      "Đồ uống",
+      "Nước có ga"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/70BHCL8Dpi",
+    "description": "Nước Khoáng Thiên Nhiên Có Ga Đảnh Thanh chai 430ml (thùng 24 chai) là sản phẩm của Công Ty Cổ Phần Nước Khoáng Khánh Hòa. Sản phẩm được đóng chai ngay tại nguồn khoáng Đảnh Thạnh quý hiếm, kết hợp với các dưỡng chất khác nâng tầm giá trị của sản phẩm cho sức khỏe, hệ tiêu hóa của người tiêu dùnng.\n\nSử dụng sản phẩm Nước Khoáng Thiên Nhiên Có Ga Đảnh Thạnh giúp bạn Bù Khoáng Bù Nước, Sảng Khoái Tươi Vui Mỗi Ngày.\n\n🔹 Xuất xứ: Việt Nam\n🔹 Quy cách: 430ml x thùng 24 chai\n🔹 Hướng dẫn sử dụng: uống trực tiếp hàng ngày, ngon hơn khi uống lạnh\n🔹 Bảo quản: nơi khô ráo và thoáng mát\n🔹 Sản phẩm đạt chứng nhận Quốc tế ISO 9001:2015, HACCP, Hàng Việt Nam Chất Lượng Cao do người tiêu dùng bình chọn\n🔹 Hạn sử dụng: 12 tháng kể từ ngày sản xuất",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "90",
+    "discount": 0,
+    "totalRatingCount": 12
   }
 ]
