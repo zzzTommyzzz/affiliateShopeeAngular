@@ -2549,5 +2549,33 @@
     "soldCountDisplay": "387",
     "discount": 25,
     "totalRatingCount": 54
+  },
+  {
+    "id": "42618901072",
+    "title": "Đèn led huyễn cảnh bát quái la kinh rộng 42cm",
+    "slug": "dèn-led-huyễn-canh-bat-quai-la-kinh-rộng-42cm",
+    "price": 2850000.0,
+    "originalPrice": 2850000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-memj0ubx3b4093",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-memj0ubx3b4093",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-memj0ucb4zk459",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-memj0ue49ddy10",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-memj0ucb3kzo41",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-memj0ucgfz7m95"
+    ],
+    "rating": 0.0,
+    "category": [
+      "Nhà cửa & Đời sống",
+      "Đồ thờ cúng, đồ phong thủy"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/70BoXEjUxD",
+    "description": "Thông tin sản phẩm: \n- Tên gọi: Đèn led huyễn cảnh bát quái la kinh rộng 42cm\n- Chất liệu: Tổng hợp làm theo nguyên lý điện tử hoạt động dưới dạng đèn led và dùng điện để chạy. Khi cắm điện thiết bị sẽ hoạt động chạy theo các hình ảnh/video 3D thiết lập. \n- Kích thước: đường kính rộng 42cm\n- Sử dụng: Tặng kèm hướng dẫn cài đặt theo App và sử dụng được tất cả các hình ảnh/video 3D theo ý muốn. \n- Sản phẩm có thề treo trên tường, gắn ở cột, cầm tay và treo trên khung sắt có chân đỡ…",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "0",
+    "discount": 0,
+    "totalRatingCount": 0
   }
 ]
