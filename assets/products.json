@@ -2640,5 +2640,32 @@
     "soldCountDisplay": "2k+",
     "discount": 26,
     "totalRatingCount": 506
+  },
+  {
+    "id": "25488429526",
+    "title": "HOA MUỐI SAHU - MUỐI BIỂN TỰ NHIÊN TRUYỀN THỐNG VỊ MẶN DỊU NGON GIÀU KHOÁNG CHẤT",
+    "slug": "hoa-muối-sahu---muối-biển-tự-nhiên-truyền-thống-vị-mặn-dịu-ngon-giau-khoang-chất",
+    "price": 58000.0,
+    "originalPrice": 58000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2p084o4cg56af",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2p084o4cg56af",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mezjad1klq8aab"
+    ],
+    "rating": 5.0,
+    "category": [
+      "Thực phẩm và đồ uống",
+      "Nguyên liệu nấu ăn",
+      "Gia vị & Hương liệu",
+      "Muối"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/9UtCK3bCJl",
+    "description": "Lưu ý: giá sản phẩm đã bao gồm VAT, quý khách vui lòng ghi chú hoặc nhắn tin cho shop để lấy hoá đơn nếu cần ạ. Xin cảm ơn!\nSAHU là đơn vị đầu tiên sản xuất hoa muối đúng chuẩn đạt chất lượng tại Việt Nam từ năm 2017 và chính thức đưa sản phẩm ra thị trường từ năm 2018. Người Việt Nam vốn thích dùng nước mắm & xì dầu hơn muối, tuy nhiên hoa muối vẫn được đón nhận & ưa thích vì vị ngon của nó. Đây cũng là tín hiệu tích cực để vực dậy nghề muối truyền thống tại đồng muối Sa Huỳnh.\n\nHoa muối đúng chuẩn có hạt muối nhỏ, xốp, nhẹ, bông tơi, vị mặn dịu hậu ngọt, nếu ngửi kỹ sẽ nghe mùi thơm thanh khiết đặc trưng. \n\nThành phần: hoa muối \nHDSD: nêm nếm tạo vị mặn, rửa, ngâm hoặc sử dụng tuỳ thích\nBảo quản: trong bao bì kín, nơi khô ráo thoáng mát.\nHSD: 3 năm kể từ NSX\nTTCB: nếu muối ẩm, hãy hong khô và sử dụng bình thường.\nXuất xứ: Việt Nam\nSX tại CN Cty TNHH MTV Muối Sahu - Thôn Châu Me, Xã Phổ Châu, TX Đức Phổ, Tỉnh Quảng Ngãi",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "3k+",
+    "discount": 0,
+    "totalRatingCount": 470
   }
 ]
