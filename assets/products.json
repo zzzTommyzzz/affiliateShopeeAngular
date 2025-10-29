@@ -2733,5 +2733,30 @@
     "soldCountDisplay": "6",
     "discount": 36,
     "totalRatingCount": 0
+  },
+  {
+    "id": "28518096263",
+    "title": "Dây xịt vệ sinh Caesar 1.2M ( dùng cho xịt vệ sinh )",
+    "slug": "dây-xịt-vệ-sinh-caesar-1.2m-(-dùng-cho-xịt-vệ-sinh-)",
+    "price": 122760.0,
+    "originalPrice": 124000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2s9cehk551667",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2s9cehk551667"
+    ],
+    "rating": 4.9,
+    "category": [
+      "Nhà cửa & Đời sống",
+      "Đồ dùng phòng tắm",
+      "Vòi sen & vòi xịt vệ sinh"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/7fRZiOq6dM",
+    "description": "- Dây xịt vệ sinh Caesar 1.2M ( dùng cho xịt vệ sinh )\n- Hãng sản xuất: Caesar ( cam kết hàng chính hãng caesar )\n- Công nghê sản xuất: Đài Loan\n- Chất liệu: inox304\n- Dễ dàng lắp đặt, thay thế\n- Đặc biệt mang tính thẩm mỹ cao\n- Hàng sẵn kho, giao hàng nhanh, đóng gói cẩn thận\n- BH: 24 tháng chính hãng Caesar (trong quá trình sử dụng sản phẩm có vấn đề về sản phẩm, quý khách vui lòng liên hệ shop hoặc trực tiếp hãng caesar để được bảo hành sản phẩm caesar theo chế độ bảo hành của hãng)\n- Shop cảm ơn quý khách.",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "104",
+    "discount": 1,
+    "totalRatingCount": 21
   }
 ]
