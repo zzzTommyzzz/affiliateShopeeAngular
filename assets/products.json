@@ -3808,5 +3808,34 @@
     "soldCountDisplay": "1k+",
     "discount": 0,
     "totalRatingCount": 270
+  },
+  {
+    "id": "48401738125",
+    "title": "Vali Pediasure LocknLock 16ing cho bé",
+    "slug": "vali-pediasure-locknlock-16ing-cho-bé",
+    "price": 250000.0,
+    "originalPrice": 250000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mh8vunx53wge98",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mh8vunx53wge98",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mh8vunvrlds87b",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mh8vunxo6s5ne2",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mh8vunxe5s7fe4"
+    ],
+    "rating": 0.0,
+    "category": [
+      "Thời trang trẻ em & trẻ sơ sinh",
+      "Phụ kiện trẻ em & trẻ sơ sinh",
+      "Túi xách & vali",
+      "Vali kéo"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/AKSu7SoTkW",
+    "description": "Sản phẩm trong ảnh là vali du lịch cao cấp PediaSure LocknLock 16 inch. \nSản phẩm có tên đầy đủ: Vali khủng long PediaSure (P25042).\nThương hiệu: PediaSure và LocknLock.\nKích thước: 16 inch.\nMàu sắc: Ngà (IVORY).\nCảnh báo an toàn: Để tránh nguy hiểm ngạt thở, giữ túi nhựa này tránh xa trẻ sơ sinh và trẻ nhỏ. Không sử dụng trong nôi, giường, xe đẩy hoặc cũi. Màng mỏng có thể bám vào mũi và miệng và ngăn thở. Túi này không phải là đồ chơi.",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "0",
+    "discount": 0,
+    "totalRatingCount": 0
   }
 ]
