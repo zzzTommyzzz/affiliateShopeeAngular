@@ -5387,5 +5387,33 @@
     "soldCountDisplay": "40",
     "discount": 8,
     "totalRatingCount": 8
+  },
+  {
+    "id": "24612982248",
+    "title": "Kokedama Sơn Liễu Dáng Bonsai",
+    "slug": "kokedama-sơn-liễu-dang-bonsai",
+    "price": 280000.0,
+    "originalPrice": 280000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfvcle38kykv49",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfvcle38kykv49",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfvcmnb89t7361",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfvckyisxc7ha6",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfvcm5hoebygdb"
+    ],
+    "rating": 4.9,
+    "category": [
+      "Nhà cửa & Đời sống",
+      "Làm vườn",
+      "Chậu cây"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/70DwiZxm5s",
+    "description": "Sơn Liễu là ưa nắng, phù hợp với nơi có ánh sáng gián tiếp hoặc trực tiếp ( cạnh cửa sổ, ban công...)\n- Chiều cao cây kèm dĩa : 20-25cm\n\n(*) Dĩa re_use từ gốm Nhật cũ nên sẽ không có mẫu nào giống mẫu nào, nếu bạn có yêu cầu về màu sắc bạn nhớ note khi mua hàng cho vườn biết nhé 😘\n(*) Do những quy định của shopee về việc vận chuyển, vườn để mô tả sản phẩm có nhiều thiếu sót mong khách hàng thông cảm\nMọi thắc mắc về cây bạn có thể nhắn tin trực tiếp qua shopee hoặc qua trang rè nhé!",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "67",
+    "discount": 0,
+    "totalRatingCount": 17
   }
 ]
