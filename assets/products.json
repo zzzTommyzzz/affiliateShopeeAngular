@@ -5537,5 +5537,98 @@
     "soldCountDisplay": "37",
     "discount": 24,
     "totalRatingCount": 13
+  },
+  {
+    "id": "40960961935",
+    "title": "[New Full VAT] XiaoXin 15c AHP10_2025 {R7-8745HS / 16G / SSD 512GB / VGA 780M / 15.1 in, 2.5K, 165Hz, OLED}",
+    "slug": "[new-full-vat]-xiaoxin-15c-ahp10_2025-{r7-8745hs-/-16g-/-ssd-512gb-/-vga-780m-/-15.1-in,-2.5k,-165hz,-oled}",
+    "price": 18999000.0,
+    "originalPrice": 27000000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mctz7s7fuczj30",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mctz7s7fuczj30",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-md31sg1ljxa7b2",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-md31sg1bkbwf3d",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-md31sg1llcbgc1",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-md31sg1lmqf371",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-md31sg1ljxr0d4",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-md31sg1llbun25"
+    ],
+    "rating": 4.9,
+    "category": [
+      "Máy tính & Laptop",
+      "Laptop"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/20pPAV5x7d",
+    "description": "(Nguồn gốc xuất xứ: Hàng nhập khẩu 100%)\n\nKhuyến mại: Túi xách chính hãng + chuột quang chính hãng + bàn di chuột ( Trị Giá 299K )\nBảo hành 12 tháng phần cứng\n15 ngày 1 đổi 1 nếu có lỗi của nhà sản xuất\n\nCấu hình chi tiết :\nCPU: AMD Ryzen™ 7 8745HS (3.8 GHz up to 5.1 GHz, 8 Cores, 16 Threads, 24MB Cache)\nRAM: 16GB DDR5 5600MHz ( 8GB onboard + 8GB )\nỔ cứng: 512 GB M.2 NVMe PCIe SSD\nCard VGA: AMD Radeon Graphic 780M\nMàn hình: 15.1″ 2.5K(2560×1600) OLED, màn gương, không cảm ứng, tần số quét màn 165Hz, tỷ lệ khung hình 16:10, độ sáng 500nits, DC dimmer, độ phủ màu 100% DCI-P3, tỷ lệ tương phản 100,000:1, tốc độ phản hồi hình ảnh 3ms, hỗ trợ DisplayHDR™ True Black 600, màn giảm ánh sáng xanh chống hại mắt đạt chuẩn TÜV Low Blue Light\nWebcam: 1080P Full HD IR Camera With Face Recognition\nCổng kết nối:\t\n- cổng sạc chân tròn\n- 2 cổng USB-A 3.2 Gen 1\n- HDMI\n- khe đọc-ghi thẻ SD\n- jack tai nghe 3.5\n- 1 cổng USB-C® (USB 5Gbps) tích hợp tính năng PD 3.0 & DP 1.2\nTrọng lượng: 1.49 kg\nPin: 60Wh\n\nĐánh giá tổng quan\n- Hiệu năng: Ryzen 7 8745HS và Radeon 780M mang lại hiệu suất ấn tượng trong phân khúc laptop mỏng nhẹ, đủ sức xử lý các tác vụ văn phòng, học tập, sáng tạo nội dung, và chơi game nhẹ. Không có GPU rời nên không phù hợp với game AAA nặng hoặc render 3D phức tạp.\n- Màn hình: OLED 2.5K 165Hz là điểm nhấn lớn, mang lại trải nghiệm hình ảnh tuyệt vời cho giải trí, thiết kế, và chơi game. Độ phủ màu 100% DCI-P3 và HDR True Black 600 lý tưởng cho sáng tạo nội dung.\n- Tính di động: Với trọng lượng 1.65kg và độ mỏng 16.9mm, máy dễ mang theo, phù hợp cho sinh viên, nhân viên văn phòng, hoặc freelancer.\n- Pin: Thời lượng pin tốt, hỗ trợ sạc nhanh, đáp ứng nhu cầu sử dụng cả ngày với tác vụ nhẹ.\n- Kết nối: Đầy đủ cổng cần thiết, Wi-Fi 6E và Bluetooth 5.2 đảm bảo kết nối nhanh, ổn định. Tuy nhiên, thiếu Thunderbolt 4 và Ethernet có thể là hạn chế với một số người dùng.",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": false,
+    "soldCountDisplay": "86",
+    "discount": 31,
+    "totalRatingCount": 27
+  },
+  {
+    "id": "56550981039",
+    "title": "Laptop ASUS ExpertBook B1 BM1403CDA-S60974W (Ryzen 5-7535HS/16GB/512GB/AMD Radeon 660M/14.0\" FHD/Win11/Xám) - Chính hãng",
+    "slug": "laptop-asus-expertbook-b1-bm1403cda-s60974w-(ryzen-5-7535hs/16gb/512gb/amd-radeon-660m/14.0\"-fhd/win11/xam)---chính-hang",
+    "price": 13140000.0,
+    "originalPrice": 14890000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrqojfas0ln99",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrqojfas0ln99",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrgm417pkp617",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrgm417sdu24a",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrgm413qarv03",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrgm416jfnw35",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrgm40zttzi91",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgrgm417qz9m75"
+    ],
+    "rating": 5.0,
+    "category": [
+      "Máy tính & Laptop",
+      "Laptop"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/3LKml10m0V",
+    "description": "\n\n\n\n\nNhờ cấu hình này, người dùng có thể yên tâm làm việc mà không gặp tình trạng giật lag. Dù là dân văn phòng cần xử lý bảng tính lớn, sinh viên cần chạy ứng dụng học tập hay doanh nhân thường xuyên thuyết trình, chiếc laptop này đều đáp ứng trọn vẹn.\nMàn hình Full HD sắc nét, chống chói hiệu quả\nMột điểm cộng lớn của laptop ASUS ExpertBook B1 BM1403CDA-S60974W chính là màn hình 14 inch FHD (1920 x 1080) với tấm nền chống chói. Độ sáng tối đa đạt 300 nit và độ phủ màu NTSC 45%, cho phép hiển thị hình ảnh rõ ràng ngay cả trong môi trường có nhiều ánh sáng.\n\nTỷ lệ màn hình 16:9 và công nghệ đèn nền LED giúp tái hiện hình ảnh cân đối, màu sắc ổn định. Đây là lựa chọn lý tưởng cho công việc văn phòng, chỉnh sửa nội dung cơ bản và tham gia các buổi họp online kéo dài. Người dùng sẽ có trải nghiệm thị giác thoải mái hơn, hạn chế mỏi mắt khi phải nhìn lâu.\nĐối với những ai thường xuyên di chuyển hoặc làm việc ngoài trời, màn hình chống chói chính là yếu tố quan trọng. Nó giúp hiển thị rõ ràng văn bản và hình ảnh, từ đó nâng cao năng suất làm việc trong nhiều bối cảnh khác nhau.\n\n\n\n\nÂm thanh và camera của laptop ASUS ExpertBook B1 BM1403CDA-S60974W tối ưu cho làm việc trực tuyến\nLaptop được trang bị hệ thống âm thanh Dirac với loa và micro tích hợp, mang đến chất lượng âm thanh rõ ràng và sống động. Người dùng có thể dễ dàng tham gia các cuộc gọi video hoặc nghe nhạc, xem phim với trải nghiệm tốt hơn so với nhiều dòng laptop phổ thông khác.\n\nMáy còn sở hữu camera HD 720p kèm tấm che vật lý, vừa đảm bảo hình ảnh rõ nét trong các buổi học online, hội họp, vừa tăng cường tính bảo mật cá nhân khi không sử dụng. Đây là một điểm nhấn quan trọng đối với những ai thường xuyên tham gia các cuộc họp trực tuyến.\nSự kết hợp giữa âm thanh và camera chất lượng cao giúp laptop này trở thành công cụ đắc lực trong kỷ nguyên làm việc từ xa. Người dùng không cần đầu tư thêm phụ kiện bên ngoài mà vẫn có trải nghiệm trọn vẹn, tiện lợi và an toàn.\n\n\n\n\nKết nối toàn diện, tiện lợi vượt trội\nMột trong những lợi thế lớn của laptop ASUS ExpertBook B1 BM1403CDA-S60974W là hệ thống kết nối đa dạng. Máy hỗ trợ 2x USB 3.2 Gen 1 Type A, 2x USB 3.2 Gen 2 Type C, HDMI 1.4, RJ45, jack âm thanh 3.5mm, đáp ứng tối đa nhu cầu kết nối với các thiết bị ngoại vi.\nNgoài cổng kết nối vật lý, laptop còn được trang bị kết nối không dây hiện đại với Wi-Fi 6E (802.11ax) và Bluetooth 5.4, giúp đảm bảo tốc độ truyền tải dữ liệu ổn định, giảm độ trễ khi kết nối với các thiết bị như tai nghe, chuột, loa hoặc máy chiếu.\nNhờ sự toàn diện này, người dùng có thể dễ dàng thiết lập văn phòng tại nhà, thuyết trình trong lớp học hoặc hội nghị mà không gặp khó khăn. Đây chính là yếu tố giúp ExpertBook B1 trở thành người bạn đồng hành đáng tin cậy trong công việc và học tập.",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": true,
+    "soldCountDisplay": "30",
+    "discount": 12,
+    "totalRatingCount": 7
+  },
+  {
+    "id": "18690097977",
+    "title": "Bàn phím cơ k98 gaming Không dây Bluetooth Silent Switch LED RGB Có Hot-swap cho máy tính/laptop/ipad Có APP tùy chỉnh",
+    "slug": "ban-phím-cơ-k98-gaming-không-dây-bluetooth-silent-switch-led-rgb-có-hot-swap-cho-may-tính/laptop/ipad-có-app-tùy-chỉnh",
+    "price": 799500.0,
+    "originalPrice": 1399000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mipy8skjokcicc",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mipy8skjokcicc",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2pl5ztt6pdb",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2pl5kt0jq7a",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2pl70tfk2da",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2pf0spkhu4f",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2przokfm0b9",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2sj8gkjk896",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw35thlnnk3a2",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhw2pf0xe4n5dd"
+    ],
+    "rating": 4.8,
+    "category": [
+      "Máy tính & Laptop",
+      "Chuột & Bàn Phím",
+      "Bàn Phím Máy Tính"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/10wrymdRrs?lp=aff",
+    "description": "Nhà sản xuất, người bán, sẽ hỗ trợ giao hàng theo nhu cầu, sẵn sàng tư vấn tham khảo ý kiến từ Quý khách.\n\n ✅【Tất cả sản phẩm đều có hàng sẵn 】\n 💁【Chúng tôi sẽ giao hàng trong vòng 24 giờ】\n 🚚【Quý khách có thể nhận được gói hàng trong vòng 1 đến 3 ngày】\n 📦【Trước khi xuất kho sẽ kiểm tra và đóng gói an toàn để tránh hư hỏng trong quá trình vận chuyển】\n✅Nếu có vấn đề với sản phẩm, vui lòng liên hệ với shop của chúng tôi ngay sau khi bạn nhận được gói hàng. Chúng tôi sẽ sớm cố gắng giải quyết vấn đề của bạn.\n\n\n\n\n\n",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": true,
+    "soldCountDisplay": "1k+",
+    "discount": 43,
+    "totalRatingCount": 297
   }
 ]
