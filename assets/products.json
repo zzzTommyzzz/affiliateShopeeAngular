@@ -5819,5 +5819,37 @@
     "soldCountDisplay": "7k+",
     "discount": 7,
     "totalRatingCount": 1744
+  },
+  {
+    "id": "41401369386",
+    "title": "Điện thoại thông minh POCO X7 5G (8+256GB | 12+512GB) | Màn hình 120Hz AMOLED Viền cong | D7300-Ultra",
+    "slug": "diện-thoai-thông-minh-poco-x7-5g-(8+256gb-|-12+512gb)-|-man-hình-120hz-amoled-viền-cong-|-d7300-ultra",
+    "price": 6090000.0,
+    "originalPrice": 8350000.0,
+    "currency": "VND",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mk5d06jbn9qcfe",
+    "images": [
+      "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mk5d06jbn9qcfe",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfp40dgivtan13",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohjqhhcbef",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohkrpj4a5c",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohjzytcfcd",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohk76oeg84",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohjx5og817",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohkr79qgce",
+      "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfawohl4i9e387"
+    ],
+    "rating": 4.8,
+    "category": [
+      "Điện Thoại & Phụ Kiện",
+      "Điện thoại"
+    ],
+    "affiliateUrl": "https://s.shopee.vn/4AuMLbT4SX",
+    "description": "",
+    "isPreferredPlusSeller": false,
+    "isOfficialShop": true,
+    "soldCountDisplay": "297",
+    "discount": 29,
+    "totalRatingCount": 79
   }
 ]
